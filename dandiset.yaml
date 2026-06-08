@@ -23,9 +23,9 @@ assetsSummary:
     name: Homo sapiens - Human
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Natraj, Nikhilesh (2026) Sampling representational plasticity of simple
-  imagined movements across days enables long-term neuroprosthetic control (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001535/draft
+citation: Natraj, Nikhilesh; Ganguly, Karunesh (2026) Sampling representational plasticity
+  of simple imagined movements across days enables long-term neuroprosthetic control
+  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001535/draft
 contributor:
 - affiliation: []
   email: nikhilesh.natraj@ucsf.edu
@@ -41,6 +41,12 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- affiliation: []
+  email: karunesh.ganguly@ucsf.edu
+  identifier: 0000-0002-2570-9943
+  includeInCitation: true
+  name: Ganguly, Karunesh
+  schemaKey: Person
 dateCreated: '2025-07-13T04:37:45.082548+00:00'
 description: 'Long-term electrocorticographic (ECoG) training data during contextual
   brain computer interface (BCI) control in a tetraplegic human participant. The data
