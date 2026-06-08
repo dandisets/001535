@@ -25,7 +25,7 @@ assetsSummary:
   variableMeasured: []
 citation: Natraj, Nikhilesh; Ganguly, Karunesh (2026) Sampling representational plasticity
   of simple imagined movements across days enables long-term neuroprosthetic control
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001535/draft
+  (Version 0.260608.0617) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001535/0.260608.0617
 contributor:
 - affiliation: []
   email: nikhilesh.natraj@ucsf.edu
@@ -48,6 +48,7 @@ contributor:
   name: Ganguly, Karunesh
   schemaKey: Person
 dateCreated: '2025-07-13T04:37:45.082548+00:00'
+datePublished: '2026-06-08T06:17:36.613068+00:00'
 description: 'Long-term electrocorticographic (ECoG) training data during contextual
   brain computer interface (BCI) control in a tetraplegic human participant. The data
   uploaded represent long-term recordings from a 128 channel ECoG grid over contralateral
@@ -64,17 +65,30 @@ description: 'Long-term electrocorticographic (ECoG) training data during contex
   rate to 100Hz. Paper describing the scientific rationale, engineering approach,
   signal processing, experiments, data and a baseline deep learning decoder (stacked
   bi-directional LSTMs) can be found here: https://www.cell.com/cell/fulltext/S0092-8674(25)00157-6   '
+doi: 10.48324/dandi.001535/0.260608.0617
 ethicsApproval: []
-id: DANDI:001535/draft
+id: DANDI:001535/0.260608.0617
 identifier: DANDI:001535
 keywords:
 - ECoG, Human, BCI
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001535/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001535/0.260608.0617/assets.yaml
 name: Sampling representational plasticity of simple imagined movements across days
   enables long-term neuroprosthetic control
+publishedBy:
+  endDate: '2026-06-08T06:17:36.613068+00:00'
+  id: urn:uuid:fc1a7721-3a86-4234-86e3-be354d596aa1
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-06-08T06:17:36.613068+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:6cc0aa77-27f8-4bfc-9d5b-2732d7b287d1
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: '10.1016/j.cell.2025.02.001 '
   name: Sampling representational plasticity of simple imagined movements across days
@@ -89,6 +103,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.10
 studyTarget:
 - Humans
-url: https://dandiarchive.org/dandiset/001535/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001535/0.260608.0617
+version: 0.260608.0617
 wasGeneratedBy: []
